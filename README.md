@@ -1,2 +1,2 @@
 # Meu Portfolio
-aprendendo html &amp; css com portfolio do Marco Bruno Dev
+aprendendo html &amp; css depois colocar tudo para React
